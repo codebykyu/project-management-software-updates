@@ -1,10 +1,10 @@
 {
-  "app_version": "1.0.0",
+  "app_version": "1.0.1",
   "template_version": "2026.07.08",
   "config_version": "2026.07.08",
   "force_update": false,
-  "message": "当前已是最新版本。",
+  "message": "发现新版程序：新增授权码、机器码绑定和服务器校验。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.0/templates_20260708.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.0/project-management-software-macos-arm64.dmg"
+  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.1/project-management-software-macos-arm64.dmg"
 }
