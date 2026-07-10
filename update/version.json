@@ -6,6 +6,6 @@
   "message": "发现新版程序：培训交底支持附件存档上传、查看和删除，修复 Mac 打包启动依赖。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/project-management-software-macos-arm64.dmg",
+  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/project-management-software-macos-arm64-v1.0.2.dmg",
   "min_supported_version": "1.0.1"
 }
