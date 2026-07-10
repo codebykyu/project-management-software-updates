@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.2",
-  "template_version": "2026.07.08",
+  "template_version": "2026.07.10",
   "config_version": "2026.07.08",
   "force_update": false,
   "message": "发现新版程序：培训交底支持附件存档上传、查看和删除，修复 Mac 打包启动依赖。",
