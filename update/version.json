@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0.3",
+  "app_version": "1.0.4",
   "template_version": "2026.07.10",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,9 +7,9 @@
   "module_patch_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.3/training-attachment-topic-folder-patch-v1.0.3.zip",
   "module_patch_sha256": "09fe1080563473d4dcaa1f79079317168eafccf5594f376084cc5ccebb407622",
   "module_patch_modules": ["项目管理_equipment.py"],
-  "message": "培训交底已取消新增时强制上传附件。附件统一在台账附件存档上传，按会议主题自动归档到学习记录文件夹。",
+  "message": "发现新版程序：培训交底取消新增时强制上传附件，附件统一按会议主题归档到学习记录目录。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.3/project-management-software-macos-arm64-v1.0.3-fixed.pkg",
+  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.4/project-management-software-macos-arm64-v1.0.4.pkg",
   "min_supported_version": "1.0.1"
 }
