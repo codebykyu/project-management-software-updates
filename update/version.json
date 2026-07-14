@@ -5,7 +5,7 @@
   "force_update": false,
   "module_patch_version": "1.0.8",
   "module_patch_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.4/hot-work-worker-selector-freeze-fix-v1.0.8.zip",
-  "module_patch_sha256": "8770e051cbe735fa5ff0e2db6e9aa71f5e1bdab7d63ce6a196f70565b65e0a6e",
+  "module_patch_sha256": "2e720e930332f0801550ed50738c52c501b16daba1e592ad8b5eb7b5ed9001f7",
   "module_patch_modules": ["项目管理_hot_work.py"],
   "message": "修复 Windows 动火作业台账选择特种作业人员时可能卡死的问题。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
