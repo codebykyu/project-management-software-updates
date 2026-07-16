@@ -10,6 +10,6 @@
   "message": "发布完整 Windows v1.0.7：同步服务已直接内置到主程序，支持 Android 局域网自动发现、九类业务数据同步和定时刷新。请下载并安装新版主程序。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management/releases/download/v1.0.7/project-management-windows-setup-v1.0.7.exe",
+  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/windows-v1.0.7/project-management-windows-setup-v1.0.7.exe",
   "min_supported_version": "1.0.1"
 }
