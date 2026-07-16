@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0.4",
+  "app_version": "1.0.7",
   "template_version": "2026.07.10",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,9 +7,9 @@
   "module_patch_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.4/hot-work-worker-selector-freeze-fix-v1.0.8.zip",
   "module_patch_sha256": "2e720e930332f0801550ed50738c52c501b16daba1e592ad8b5eb7b5ed9001f7",
   "module_patch_modules": ["项目管理_hot_work.py"],
-  "message": "修复 Windows 动火作业台账选择特种作业人员时可能卡死的问题。",
+  "message": "发布完整 Windows v1.0.7：同步服务已直接内置到主程序，支持 Android 局域网自动发现、九类业务数据同步和定时刷新。请下载并安装新版主程序。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.4/project-management-software-macos-arm64-v1.0.4.pkg",
+  "app_download_url": "https://github.com/codebykyu/project-management/releases/download/v1.0.7/project-management-windows-setup-v1.0.7.exe",
   "min_supported_version": "1.0.1"
 }
