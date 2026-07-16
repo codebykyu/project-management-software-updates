@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0.8",
+  "app_version": "1.0.9",
   "template_version": "2026.07.10",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,9 +7,9 @@
   "module_patch_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.4/hot-work-worker-selector-freeze-fix-v1.0.8.zip",
   "module_patch_sha256": "2e720e930332f0801550ed50738c52c501b16daba1e592ad8b5eb7b5ed9001f7",
   "module_patch_modules": ["项目管理_hot_work.py"],
-  "message": "发布完整 Windows v1.0.8：支持把台账记录中的照片和文件同步到 Android 手机本机，配合 Android v0.7.0 可离线阅读；请下载安装新版主程序。",
+  "message": "发布完整 Windows v1.0.9：人员按电脑端规则分为作业、管理和特种人员，并同步安全教育、身份证照片、特种证件及机械机具文件；请配合 Android v0.7.1 使用。",
   "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/windows-v1.0.8/project-management-windows-setup-v1.0.8.exe",
+  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/windows-v1.0.9/project-management-windows-setup-v1.0.9.exe",
   "min_supported_version": "1.0.1"
 }
