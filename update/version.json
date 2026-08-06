@@ -1,14 +1,14 @@
 {
   "app_version": "1.1.0",
-  "template_version": "2026.07.10",
+  "template_version": "2026.08.06",
   "config_version": "2026.07.08",
   "force_update": false,
   "module_patch_version": "1.0.18",
   "module_patch_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/module-patch-v1.0.18/backup-restore-module-patch-v1.0.18.zip",
   "module_patch_sha256": "56a14bc8b90b3216c93026cec807a10c6b507aaf08fbefc92d9220d5a67e6ed4",
   "module_patch_modules": ["项目管理_attendance.py"],
-  "message": "新增一键备份与恢复：可在“人员核查”页面备份或恢复当前账号的全部业务数据和附件；恢复前会自动保存现有数据。v1.1.0 用户更新模块补丁后，请完全退出并重新打开软件。",
-  "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.0.2/templates_20260710.zip",
+  "message": "新增《高压旋喷》作业人员安全教育模板。请在在线更新窗口点击“更新模板”，更新完成后即可使用。",
+  "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/templates-v2026.08.06/templates_20260806.zip",
   "config_package_url": "",
   "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/windows-v1.1.0/project-management-windows-setup-v1.1.0.exe",
   "min_supported_version": "1.0.1"
