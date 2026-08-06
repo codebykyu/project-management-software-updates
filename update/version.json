@@ -1,6 +1,6 @@
 {
   "app_version": "1.1.0",
-  "template_version": "2026.08.06",
+  "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
   "module_patch_version": "1.0.18",
@@ -8,7 +8,7 @@
   "module_patch_sha256": "56a14bc8b90b3216c93026cec807a10c6b507aaf08fbefc92d9220d5a67e6ed4",
   "module_patch_modules": ["项目管理_attendance.py"],
   "message": "新增《高压旋喷》作业人员安全教育模板。请在在线更新窗口点击“更新模板”，更新完成后即可使用。",
-  "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/templates-v2026.08.06/templates_20260806.zip",
+  "template_package_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
   "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/windows-v1.1.0/project-management-windows-setup-v1.1.0.exe",
   "min_supported_version": "1.0.1"
