@@ -1,15 +1,15 @@
 {
-  "app_version": "1.1.1",
+  "app_version": "1.1.2",
   "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
   "module_patch_version": "1.0.18",
-  "module_patch_package_url": "https://8.153.153.189/updates/releases/module-patch-v1.0.18/backup-restore-module-patch-v1.0.18.zip",
+  "module_patch_package_url": "http://8.153.153.189/updates/releases/module-patch-v1.0.18/backup-restore-module-patch-v1.0.18.zip",
   "module_patch_sha256": "56a14bc8b90b3216c93026cec807a10c6b507aaf08fbefc92d9220d5a67e6ed4",
   "module_patch_modules": ["项目管理_attendance.py"],
-  "message": "已发布 Windows 客户端 v1.1.1，更新云端授权与在线更新地址，并包含当前项目最新功能。",
-  "template_package_url": "https://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
+  "message": "已发布 Windows 客户端 v1.1.2，临时切换到阿里云 HTTP 更新通道。",
+  "template_package_url": "http://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
-  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.1.1/project-management-windows-setup-v1.1.1.exe",
+  "app_download_url": "http://8.153.153.189/updates/releases/windows-v1.1.2/project-management-windows-setup-v1.1.2.exe",
   "min_supported_version": "1.0.1"
 }
