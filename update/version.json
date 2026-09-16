@@ -1,5 +1,5 @@
 {
-  "app_version": "1.1.9",
+  "app_version": "1.2.0",
   "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,10 +7,10 @@
   "module_patch_package_url": "http://8.153.153.189/updates/releases/module-patch-v1.0.18/backup-restore-module-patch-v1.0.18.zip",
   "module_patch_sha256": "56a14bc8b90b3216c93026cec807a10c6b507aaf08fbefc92d9220d5a67e6ed4",
   "module_patch_modules": ["项目管理_attendance.py"],
-  "message": "已发布 Windows 客户端 v1.1.9，启动后自动检查并安装更新。",
+  "message": "已发布 Windows 客户端 v1.2.0，支持阿里云中转上传照片。",
   "template_package_url": "http://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
-  "app_download_url": "http://8.153.153.189/updates/releases/windows-v1.1.9/project-management-windows-setup-v1.1.9.exe",
-  "app_sha256": "c4e0141dc91c28560db8927796f9309dc8ec53035bd24672f11ab0f9448c09b6",
+  "app_download_url": "http://8.153.153.189/updates/releases/windows-v1.2.0/project-management-windows-setup-v1.2.0.exe",
+  "app_sha256": "d0a1cd98aba48261d8cefee47df8ab70f55be32d50be398353aba265ef706996",
   "min_supported_version": "1.0.1"
 }
