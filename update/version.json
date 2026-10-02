@@ -1,5 +1,5 @@
 {
-  "app_version": "1.2.1",
+  "app_version": "1.2.2",
   "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,10 +7,10 @@
   "module_patch_package_url": "",
   "module_patch_sha256": "",
   "module_patch_modules": [],
-  "message": "Windows v1.2.1：用户确认更新、下载进度、安装包校验、自动安装和重新打开软件。",
-  "template_package_url": "http://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
+  "message": "Windows v1.2.2：更新渠道迁移至阿里云，确认后自动下载安装并重新打开。",
+  "template_package_url": "https://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
-  "app_download_url": "https://github.com/codebykyu/project-management-software-updates/releases/download/v1.2.1/project-management-windows-setup-v1.2.1.exe",
-  "min_supported_version": "1.0.1",
-  "app_sha256": "80aed5c08cc731314a0dc6dbca60b70b52fb7618ef0f78d48c90cbb3cde17d02"
+  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.2.2/project-management-windows-setup-v1.2.2.exe",
+  "app_sha256": "b033afc9b9636e6b53bd79d479d88296d1f65e496bc1af3ea8940302ed1f70aa",
+  "min_supported_version": "1.0.1"
 }
