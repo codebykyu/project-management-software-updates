@@ -1,5 +1,5 @@
 {
-  "app_version": "1.2.2",
+  "app_version": "1.3.0",
   "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,10 +7,15 @@
   "module_patch_package_url": "",
   "module_patch_sha256": "",
   "module_patch_modules": [],
-  "message": "Windows v1.2.2：更新渠道迁移至阿里云，确认后自动下载安装并重新打开。",
+  "message": "Windows v1.3.0：支持小补丁、文件差量和完整包自动选择，更新失败恢复原文件。",
   "template_package_url": "https://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
-  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.2.2/project-management-windows-setup-v1.2.2.exe",
-  "app_sha256": "b033afc9b9636e6b53bd79d479d88296d1f65e496bc1af3ea8940302ed1f70aa",
-  "min_supported_version": "1.0.1"
+  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.3.0/project-management-windows-setup-v1.3.0.exe",
+  "app_sha256": "840bf8ae8ad2ab6499ddb3cd32c5b66a0aa39423ba1f022d7572d94e42d9ac7d",
+  "min_supported_version": "1.0.1",
+  "runtime_lock_url": "https://8.153.153.189/updates/releases/windows-v1.3.0/requirements-runtime-lock.txt",
+  "runtime_lock_sha256": "de04268c45a342151b02b8b7d8783edfd95c0c7db2ffa9340424dbbaccf4b415",
+  "release_manifest_url": "https://8.153.153.189/updates/releases/windows-v1.3.0/release-manifest.json",
+  "release_manifest_sha256": "3d4e4f633a3af6a0446ba34e3e7860b0aca75d3178016aee64dde411159eb9c3",
+  "file_updates": []
 }
