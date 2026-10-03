@@ -1,5 +1,5 @@
 {
-  "app_version": "1.3.2",
+  "app_version": "1.3.3",
   "template_version": "2026.08.06.1",
   "config_version": "2026.07.08",
   "force_update": false,
@@ -7,30 +7,37 @@
   "module_patch_package_url": "",
   "module_patch_sha256": "",
   "module_patch_modules": [],
-  "message": "v1.3.2：管理人员和作业人员台账新增人员照片，支持电脑添加及手机扫码上传；姓名列冻结，横向滚动保持可见。1.3.0、1.3.1 用户使用约431 KB累计小补丁。",
+  "message": "Windows v1.3.3：手机扫码上传仅需姓名和照片，自动对应管理人员及作业人员台账，并按台账姓名保存照片。",
   "template_package_url": "https://8.153.153.189/updates/releases/templates-v2026.08.06.1/templates_20260806_1.zip",
   "config_package_url": "",
-  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.3.2/project-management-windows-setup-v1.3.2.exe",
-  "app_sha256": "4edee74106bb9fdbae4c6fdce64ac37e5f08b2faa037c49c88aafdd9ff2bb066",
+  "app_download_url": "https://8.153.153.189/updates/releases/windows-v1.3.3/project-management-windows-setup-v1.3.3.exe",
+  "app_sha256": "ac7695a51db8d269d817232178f0cb4820a923f51f7dcd2b5bf0d57aeca55b61",
   "min_supported_version": "1.0.1",
-  "runtime_lock_url": "https://8.153.153.189/updates/releases/windows-v1.3.2/requirements-runtime-lock.txt",
+  "runtime_lock_url": "https://8.153.153.189/updates/releases/windows-v1.3.3/requirements-runtime-lock.txt",
   "runtime_lock_sha256": "de04268c45a342151b02b8b7d8783edfd95c0c7db2ffa9340424dbbaccf4b415",
-  "release_manifest_url": "https://8.153.153.189/updates/releases/windows-v1.3.2/release-manifest.json",
-  "release_manifest_sha256": "8bd2e4639ddf362e9ce22fc0f689008fa45c231df7a5d9416814196960f26d73",
+  "release_manifest_url": "https://8.153.153.189/updates/releases/windows-v1.3.3/release-manifest.json",
+  "release_manifest_sha256": "a007132deffea45efabfde64dd843c639813e5deb78f268db5496c8a52805d39",
   "file_updates": [
     {
       "type": "patch",
-      "base_version": "1.3.1",
-      "url": "https://8.153.153.189/updates/releases/windows-v1.3.2/file-update-1.3.1-to-1.3.2.zip",
-      "sha256": "0c65a8b9513e57ea1f21cb044314b09601853a03ad49423e2993a67e42fb8e3c",
-      "size": 440833
+      "base_version": "1.3.2",
+      "url": "https://8.153.153.189/updates/releases/windows-v1.3.3/file-update-1.3.2-to-1.3.3.zip",
+      "sha256": "9890b341e9ff0fe579a51448146d73aac8a560a215061aad89535f554630f7f5",
+      "size": 423261
     },
     {
       "type": "patch",
       "base_version": "1.3.0",
-      "url": "https://8.153.153.189/updates/releases/windows-v1.3.2/file-update-1.3.0-to-1.3.2.zip",
-      "sha256": "a8838c28b9a3e0631477823c7cfa26202c06baac0c7cfbd4fceee3aa820c166b",
-      "size": 440839
+      "url": "https://8.153.153.189/updates/releases/windows-v1.3.3/file-update-1.3.0-to-1.3.3.zip",
+      "sha256": "16add721f3be860b7749d7f21cb10a86669101790e7ed710a874e3a3785bfdc2",
+      "size": 441104
+    },
+    {
+      "type": "patch",
+      "base_version": "1.3.1",
+      "url": "https://8.153.153.189/updates/releases/windows-v1.3.3/file-update-1.3.1-to-1.3.3.zip",
+      "sha256": "e5f0c88bc40b390257c7b1c9b62c630f3cb40634bcd3de691f57cd9bdc2863c9",
+      "size": 441099
     }
   ]
 }
