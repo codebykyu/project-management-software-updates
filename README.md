@@ -4,6 +4,6 @@ This repository hosts update metadata for Project Management Software.
 
 Public update metadata:
 
-`https://codebykyu.github.io/project-management-software-updates/update/version.json`
+`http://8.153.153.189/updates/update/version.json`
 
 Release assets are stored in GitHub Releases.
